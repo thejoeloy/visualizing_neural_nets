@@ -21,9 +21,12 @@ Visualizing the parameters, activations, and gradients can help give us a good i
 
 ### Conv2d
 
-### Pool
+### MaxPool
 
-## Visualizing Recurrent Layeres
+### AveragePool
+
+### BatchNorm
+
 
 
 
